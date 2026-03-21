@@ -11,6 +11,7 @@
   "mason.nvim": { "branch": "main", "commit": "44d1e90e1f66e077268191e3ee9d2ac97cc18e65" },
   "mini.nvim": { "branch": "main", "commit": "59f09943573c5348ca6c88393fa09ce3b66a7818" },
   "neo-tree.nvim": { "branch": "main", "commit": "ba6871d15528e36657d19a3112cc1697c59da19a" },
+  "night-owl.nvim": { "branch": "main", "commit": "86ed124c2f7e118670649701288e024444bf91e5" },
   "nui.nvim": { "branch": "main", "commit": "de740991c12411b663994b2860f1a4fd0937c130" },
   "nvim-lspconfig": { "branch": "master", "commit": "841c6d4139aedb8a3f2baf30cef5327371385b93" },
   "nvim-treesitter": { "branch": "main", "commit": "e5f65e31a5ec0e8526b2311ff8c7aaea4a581c82" },
